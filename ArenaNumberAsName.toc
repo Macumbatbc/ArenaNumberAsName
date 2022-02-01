@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: ArenaNumberAsName
+## Author: Swagkhalifa (Mograine EU)
+## Notes: Changes enemy players name to arena number instead
+## Version: 1.0
+
+ArenaNumberAsName.lua
