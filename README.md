@@ -1,5 +1,6 @@
 # ArenaNumberAsName
 This addon changes enemy players name to arena number instead.
+
 This version is just a fix for the 2.5.3 patch
 
 # Credit
