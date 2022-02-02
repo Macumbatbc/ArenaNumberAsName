@@ -1,6 +1,6 @@
 ## Interface: 20503
 ## Title: ArenaNumberAsName
-## Author: Swagkhalifa (Mograine EU)
+## Author: Swagkhalifa (Mograine EU), Modified by Xyz
 ## Notes: Changes enemy players name to arena number instead
 ## Version: 1.0
 
